@@ -103,6 +103,7 @@ CONFIG_DEFAULT_kmod-sfp=y
 CONFIG_DEFAULT_kmod-thunderx-net=y
 CONFIG_DEFAULT_kmod-tun=y
 CONFIG_DEFAULT_kmod-vmxnet3=y
+CONFIG_DEFAULT_kmod-wireguard=y
 CONFIG_DEFAULT_libc=y
 CONFIG_DEFAULT_libgcc=y
 CONFIG_DEFAULT_libustream-openssl=y
